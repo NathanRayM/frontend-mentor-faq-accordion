@@ -31,3 +31,5 @@ This was my first accordion challenge. It was great for practicing using a for l
 ## Acknowledgments
 
 A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/faq-accordion---responsive-design---html-css-and-vanilla-javascript-BW4lXkjYcs). It definitely helps to find new ways to code and find easier solutions!
+
+
