@@ -1,5 +1,5 @@
-const accordion = document.getElementsByClassName("accordion_faq");
-const firstFaq = document.querySelector(".accordion_faq--first");
+const accordion = document.getElementsByClassName("accordion__faq");
+const firstFaq = document.querySelector(".accordion__faq--first");
 
 firstFaq.classList.add("active");
 
